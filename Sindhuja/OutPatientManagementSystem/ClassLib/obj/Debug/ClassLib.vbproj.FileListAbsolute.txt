@@ -1,0 +1,10 @@
+D:\OutPatientManagementSystem\ClassLib\bin\Debug\ClassLib.dll
+D:\OutPatientManagementSystem\ClassLib\bin\Debug\ClassLib.pdb
+D:\OutPatientManagementSystem\ClassLib\bin\Debug\ClassLib.xml
+D:\OutPatientManagementSystem\ClassLib\obj\Debug\ClassLib.Resources.resources
+D:\OutPatientManagementSystem\ClassLib\obj\Debug\ClassLib.vbproj.GenerateResource.cache
+D:\OutPatientManagementSystem\ClassLib\obj\Debug\ClassLib.vbproj.CoreCompileInputs.cache
+D:\OutPatientManagementSystem\ClassLib\obj\Debug\ClassLib.dll
+D:\OutPatientManagementSystem\ClassLib\obj\Debug\ClassLib.xml
+D:\OutPatientManagementSystem\ClassLib\obj\Debug\ClassLib.pdb
+D:\OutPatientManagementSystem\ClassLib\obj\Debug\ClassLib.vbproj.AssemblyReference.cache
